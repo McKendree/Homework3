@@ -1,0 +1,3 @@
+The analytic data does not match the computational derivatives due to there being too much noise
+in the sensor data at the small scale. This noise could be reduced by using fewer data points to 
+compute the derivatives of the sensor data.
